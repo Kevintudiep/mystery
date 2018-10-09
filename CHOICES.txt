@@ -1,7 +1,7 @@
 CHOICES
 
-First Choice: Take the PB&J sandwich
-Second Choice: help find murderer
-Third Choice: approach helga and doc
-Fourth Choice: accuse helga
-Fifth Choice: ____
+First Choice: Picked PB&J
+Second Choice: help find the murderer
+Third Choice: approach both danny and billy and then Helga
+Fourth Choice: accuse both danny and billy and then Helga
+Fifth Choice: Win?
