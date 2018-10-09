@@ -2,6 +2,6 @@ CHOICES
 
 First Choice: Picked PB&J
 Second Choice: help find the murderer
-Third Choice: approach both danny and billy
-Fourth Choice: accuse both danny and billy
-Fifth Choice: 
+Third Choice: approach both danny and billy and then Helga
+Fourth Choice: accuse both danny and billy and then Helga
+Fifth Choice: Win?
