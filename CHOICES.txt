@@ -3,5 +3,5 @@ CHOICES
 First Choice: Picked PB&J , helped look for the murderer
 Second Choice: Approached Danny
 Third Choice: Approached Billy, talk to billy directly
-Fourth Choice: ____
-Fifth Choice: ____
+Fourth Choice: Approach Helga
+Fifth Choice: Talk to them directly
