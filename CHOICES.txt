@@ -2,6 +2,6 @@ CHOICES
 
 First Choice: Picked PB&J
 Second Choice: help find the murderer
-Third Choice: approach danny
-Fourth Choice: accuse this mofo (danny)
-Fifth Choice: ____
+Third Choice: approach both danny and billy
+Fourth Choice: accuse both danny and billy
+Fifth Choice: 
