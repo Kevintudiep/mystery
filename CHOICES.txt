@@ -5,3 +5,4 @@ Second Choice: Approached Danny
 Third Choice: Approached Billy, talk to billy directly
 Fourth Choice: Approach Helga
 Fifth Choice: Talk to them directly
+Sixth Choice: Accuse the doctor
